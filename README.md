@@ -1,2 +1,2 @@
 # JarrettHoriseon
-I fixed the coding for the Horiseon Social Solutions Services.
+I refactorer all of the bad coding, for the Horiseon Social Solutions Services website.
